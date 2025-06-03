@@ -14,8 +14,12 @@
 - Todos os públicos.
 
 ### Funcionalidades
-- Apresentação de cartazes de filmes, descrição de filmes, espaço para comentários de espectadores e inserir novos filmes.
+1. Apresentação de cartazes de filmes.
+2. Descrição de filmes.
+3. Espaço para comentários de espectadores.
+4. Inserir novos filmes.
 
+---
 
 # Proposta 02
 
@@ -41,11 +45,20 @@
 # Proposta 03
 
 ## Título_da_proposta
+- ChamAmor
 
 ### Descrição
+- O ChamAmor é um site de alto padrão, no qual tem a capacidade de encontrar o seu "par perfeito", inserindo os dados desejados pelo site, você fica dois passos mais próximo de encontrar o seu par romântico. 
 
 ### Problema a ser solucionado
+- Ajudar pessoas tristes e solitárias a encontrar o seu par ideal.
 
 ### Público alvo
+- Todos os públicos
 
 ### Funcionalidades
+1. Resultado da coletânea de dados.
+2. Interação com pessoas por meio de "Clicks"
+3. Visualização da imagem da pessoa escolhida.
+
+
