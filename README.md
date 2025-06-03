@@ -1,7 +1,7 @@
 # Trabalho-final-WEB
 Trabalho final da disciplina de WEB
 
-# Batainhas_e_Companhia
+# Batatinhas_e_Companhia
 
 ### Integrantes
 

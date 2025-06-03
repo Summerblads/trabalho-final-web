@@ -1,6 +1,6 @@
 # Proposta 01
 
-## Filmografia
+## Filmgraf
 
 ### O site tem como função abrir catálogos de filmes, onde o cartaz do respectivo filme será exposto na primeira página do site. Quando o usuário clicar no cartaz do filme desejado, ele será encaminhado a outra página para que ele possa ver, uma breve descrição do filme, data de lançamento, gênero e autores/diretores do filme. 
 
