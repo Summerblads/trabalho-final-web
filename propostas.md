@@ -7,7 +7,8 @@
 - O NarraCine é um site que tem como principal função apresentar filmes brasileiros, ou seja, faz a catalogação e descrição dos filmes brasileiros mais populares. 
 
 ### Problema a ser solucionado
-- Busca por filmes que agrade o gosto invidual daquele que está procurando. Falta de conhecimento sobre a indústria cinematógrafica brasileira.
+1. Busca por filmes que agrade o gosto invidual daquele que está procurando. 
+2. Falta de conhecimento sobre a indústria cinematógrafica brasileira.
 
 ### Público alvo
 - Todos os públicos.
@@ -18,15 +19,22 @@
 
 # Proposta 02
 
-## Musga Sô
+## Título_da_proposta
+- Musga Sô
 
-### O site tem o propósito de identificar e classificar as músicas mais ouvidas por determinadas regiões pelo globo, ou seja, o site, por meio de dados de outras plataformas, vai classificar as músicas ou a música mais ouvida em cada região ou país.
+### Descrição
+ - O site tem o propósito de identificar e classificar as músicas mais ouvidas por determinadas regiões pelo globo, ou seja, o site, por meio de dados de outras plataformas, vai classificar as músicas ou a música mais ouvida em cada região ou país.
 
-### Não será mais problema descobrir novas músicas, principalmente de diferentes culturas. 
+### Problema a ser solucionado 
+- Não será mais problema descobrir novas músicas, principalmente de diferentes culturas. 
 
-### Todos os públicos
+### Público Alvo
+-Todos os públicos
 
-### 1. Mapa do globo, com a possibilidade de, ao clicar, apresentar a música mais ouvida daquele país. 2.Ranking das músicas mais ouvidas no mundo. 3.Possibilidade de ouvir a música mais tocada na região escolhida. 
+### Funcionalidades
+1. Mapa do globo, com a possibilidade de, ao clicar, apresentar a música mais ouvida daquele país. 
+2. Ranking das músicas mais ouvidas no mundo. 
+3. Possibilidade de ouvir a música mais tocada na região escolhida. 
 
 ---
 
