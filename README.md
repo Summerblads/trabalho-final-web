@@ -15,6 +15,8 @@ Trabalho final da disciplina de WEB
 ### NarraCine
 - O NarraCine tem como propósito levar a descrição dos filmes que estão no seu catálogo, visando que mais pessoas tenham interesse em buscar mais da cultura cinematográfica, a partir de uma narrativa crítica. 
 
+### Descrição
 - Apresentação de cartazes de filmes, descrição de filmes, espaço para comentários de espectadores e inserir novos filmes.
 
-- [FIGMA]: (https://www.figma.com/board/iOQgvzJjT9mt38wsDzUyjI/Sem-t%C3%ADtulo?node-id=0-1&t=LCYPX5GO3Pa5w4GR-1)
+### Link
+- [FIGMA]: ( https://www.figma.com/board/iOQgvzJjT9mt38wsDzUyjI/Sem-t%C3%ADtulo?node-id=0-1&t=LCYPX5GO3Pa5w4GR-1 )
