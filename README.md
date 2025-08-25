@@ -19,4 +19,4 @@ Trabalho final da disciplina de WEB
 - Apresentação de cartazes de filmes, descrição de filmes, espaço para comentários de espectadores e inserir novos filmes.
 
 ### Link
-- [FIGMA]: ( https://www.figma.com/design/eSrqIS0kHVGjGdxLB9iydD/Sem-t%C3%ADtulo?node-id=0-1&t=vVfyvlQY78BJPPdO-1 )
+- [FIGMA]: ( )
